@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Eman ! 💖<br><br>I'm an ambitious Software Engineering student passionate about web development and building creative digital experiences.<br><br>I enjoy turning ideas into reality through code, exploring new technologies, and continuously improving my skills. I'm especially interested in building websites and developing projects that combine functionality, creativity, and thoughtful design.<br><br>🌱 Always learning, building, and exploring new possibilities.<br><br>💻 Interested in: Web Development | Full-Stack Development | Software Engineering<br><br>✨ Dreaming big, coding along, and creating something meaningful.
+### Hi, I'm Eman ! 💖<br><br>I'm an ambitious Software Engineering student passionate about web development and building creative digital experiences.I enjoy turning ideas into reality through code, exploring new technologies, and continuously improving my skills. I'm especially interested in building websites and developing projects that combine functionality, creativity, and thoughtful design.<br><br>🌱 Always learning, building, and exploring new possibilities.<br><br>💻 Interested in: Web Development | Full-Stack Development | Software Engineering<br><br>✨ Dreaming big, coding along, and creating something meaningful.
 
 
 ## 🌐 Socials:
